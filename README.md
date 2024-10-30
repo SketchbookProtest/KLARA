@@ -1,4 +1,4 @@
-Kazuo Language Analysis Research Applet (KLARA) is a project-specific fork of Stanza for computational analysis of the novels of Kazuo Ishiguro. 
+**Kazuo Language Analysis Research Applet ** (KLARA) is a project-specific fork of Stanza for computational analysis of the novels of Kazuo Ishiguro. 
 
 Parts of this project's code were optimised/refined with the use of ChatGP3. See APPENDIX A for details.
 
