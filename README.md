@@ -202,21 +202,21 @@ Stanza is released under the Apache License, Version 2.0. See the [LICENSE](http
 
 ## RESULTS
 
-<div align="center"><img src="[https://github.com/SketchbookProtest/KLARA/blob/main/Picture1.png" height="100px"/></div>
+<div align="center"><img src="https://github.com/SketchbookProtest/KLARA/blob/main/Picture1.png" height="200px"/></div>
 
-<div align="center"><img src="[https://github.com/SketchbookProtest/KLARA/blob/main/Picture2.png" height="200px"/></div>
+<div align="center"><img src="https://github.com/SketchbookProtest/KLARA/blob/main/Picture2.png" height="200px"/></div>
 
-<div align="center"><img src="[https://github.com/SketchbookProtest/KLARA/blob/main/Picture3.png" height="200px"/></div>
+<div align="center"><img src="https://github.com/SketchbookProtest/KLARA/blob/main/Picture3.png" height="200px"/></div>
 
-<div align="center"><img src="[https://github.com/SketchbookProtest/KLARA/blob/main/Picture4.png" height="200px"/></div>
+<div align="center"><img src="https://github.com/SketchbookProtest/KLARA/blob/main/Picture4.png" height="200px"/></div>
 
-<div align="center"><img src="[https://github.com/SketchbookProtest/KLARA/blob/main/Picture5.png" height="200px"/></div>
+<div align="center"><img src="https://github.com/SketchbookProtest/KLARA/blob/main/Picture5.png" height="200px"/></div>
 
-<div align="center"><img src="[https://github.com/SketchbookProtest/KLARA/blob/main/Picture6.png" height="200px"/></div>
+<div align="center"><img src="https://github.com/SketchbookProtest/KLARA/blob/main/Picture6.png" height="200px"/></div>
 
-<div align="center"><img src="[https://github.com/SketchbookProtest/KLARA/blob/main/Picture7.png" height="200px"/></div>
+<div align="center"><img src="https://github.com/SketchbookProtest/KLARA/blob/main/Picture7.png" height="200px"/></div>
 
-<div align="center"><img src="[https://github.com/SketchbookProtest/KLARA/blob/main/Picture8.png" height="200px"/></div>
+<div align="center"><img src="https://github.com/SketchbookProtest/KLARA/blob/main/Picture8.png" height="200px"/></div>
 
 uwu
 
