@@ -2,7 +2,7 @@
 
 Kazuo Language Analysis Research Applet (KLARA) is a project-specific fork of Stanza for computational analysis of the novels of Kazuo Ishiguro. 
 
-Parts of this project's code were optimised/refined with the use of ChatGP3. See APPENDIX A for details.
+Parts of this project's code were optimised/refined with the use of Microsoft Co-Pilot. See APPENDIX A for details.
 
 <div align="center"><img src="https://github.com/stanfordnlp/stanza/raw/dev/images/stanza-logo.png" height="100px"/></div>
 
@@ -197,3 +197,15 @@ For detailed step-by-step guidance on how to train and evaluate your own models,
 ## LICENSE
 
 Stanza is released under the Apache License, Version 2.0. See the [LICENSE](https://github.com/stanfordnlp/stanza/blob/master/LICENSE) file for more details.
+
+**~**
+
+## RESULTS
+
+<div align="center"><img src="[https://github.com/SketchbookProtest/KLARA/blob/main/Picture1.png" height="100px"/></div>
+
+
+
+
+
+
