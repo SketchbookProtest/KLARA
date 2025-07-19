@@ -218,6 +218,6 @@ Stanza is released under the Apache License, Version 2.0. See the [LICENSE](http
 
 <div align="center"><img src="https://github.com/SketchbookProtest/KLARA/blob/main/Picture8.png" height="200px"/></div>
 
-uwu
+Thank you for reading my thesis ! ! !
 
 
