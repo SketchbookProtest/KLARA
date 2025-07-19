@@ -202,7 +202,7 @@ Stanza is released under the Apache License, Version 2.0. See the [LICENSE](http
 
 ## RESULTS
 
-<div align="center"><img src="[https://github.com/SketchbookProtest/KLARA/blob/main/Picture1.png" height="100px"/></div>
+<div align="center"><img src="https://github.com/SketchbookProtest/KLARA/blob/main/Picture1.png" height="100px"/></div>
 
 
 
