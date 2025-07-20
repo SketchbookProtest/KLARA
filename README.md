@@ -218,6 +218,28 @@ Stanza is released under the Apache License, Version 2.0. See the [LICENSE](http
 
 <div align="center"><img src="https://github.com/SketchbookProtest/KLARA/blob/main/Picture8.png" height="200px"/></div>
 
+<div align="center"><img src="https://github.com/SketchbookProtest/KLARA/blob/main/heat.png" height="200px"/></div>
+
+<div align="center"><img src="https://github.com/SketchbookProtest/KLARA/blob/main/positive.png" height="200px"/></div>
+
+<div align="center"><img src="https://github.com/SketchbookProtest/KLARA/blob/main/negative.png" height="200px"/></div>
+
+<div align="center"><img src="https://github.com/SketchbookProtest/KLARA/blob/main/trust.png" height="200px"/></div>
+
+<div align="center"><img src="https://github.com/SketchbookProtest/KLARA/blob/main/surprise.png" height="200px"/></div>
+
+<div align="center"><img src="https://github.com/SketchbookProtest/KLARA/blob/main/sadness.png" height="200px"/></div>
+
+<div align="center"><img src="https://github.com/SketchbookProtest/KLARA/blob/main/joy.png" height="200px"/></div>
+
+<div align="center"><img src="https://github.com/SketchbookProtest/KLARA/blob/main/fear.png" height="200px"/></div>
+
+<div align="center"><img src="https://github.com/SketchbookProtest/KLARA/blob/main/disgust.png" height="200px"/></div>
+
+<div align="center"><img src="https://github.com/SketchbookProtest/KLARA/blob/main/anticipation.png" height="200px"/></div>
+
+<div align="center"><img src="https://github.com/SketchbookProtest/KLARA/blob/main/anger.png" height="200px"/></div>
+
 Thank you for reading my thesis ! ! !
 
 
